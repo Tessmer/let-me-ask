@@ -34,7 +34,7 @@
 ## 1. Clone o Repositório
 
 ```bash
-git@github.com:Tessmer/LetMeAsk.git
+git@github.com:Tessmer/let-me-ask.git
 ```
 
 ## 2. Instale as Dependencias
